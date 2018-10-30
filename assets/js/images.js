@@ -1,4 +1,7 @@
 var images = [
+    'cat-nanluoguxiang-beijing-259.jpg',
+    'feiyue-nanluoguxiang-beijing-258.jpg',
+    'drum-nanluoguxiang-beijing-258.jpg',
     'stones-wudaoying-beijing-258.jpg',
     'color_love-Forbidden City-beijing-258.jpg',
     'yard-beichizi-beijing-519.jpg',
