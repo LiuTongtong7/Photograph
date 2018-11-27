@@ -1,4 +1,6 @@
 var images = [
+    'bike2-tsinghua-beijing-615.jpg',
+    'bike1-tsinghua-beijing-195.jpg',
     'cat-nanluoguxiang-beijing-259.jpg',
     'feiyue-nanluoguxiang-beijing-258.jpg',
     'drum-nanluoguxiang-beijing-258.jpg',
